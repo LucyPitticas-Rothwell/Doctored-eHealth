@@ -1,6 +1,6 @@
 # Doctored e-Health
 
-*(The main code file is hidden due to UCL policy but can be shared on request)*
+*(The main runner file is hidden due to UCL policy but can be shared on request)*
 
 **Overview**
 
